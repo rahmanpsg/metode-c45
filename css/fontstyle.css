@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css?family=Rubik:300,400,500,700&amp;display=swap");
+@import url(icons/font-awesome/css/fontawesome-all.css);
+@import url(icons/simple-line-icons/css/simple-line-icons.css);
+@import url(icons/themify-icons/themify-icons.css);
+
+@font-face {
+  font-family: 'TofinoPersonal-Medium';
+  src: url("fonts/TofinoPersonal-Mediumd41d.eot?#iefix") format("embedded-opentype"), url("fonts/TofinoPersonal-Medium.otf") format("opentype"), url("fonts/TofinoPersonal-Medium.woff") format("woff"), url("fonts/TofinoPersonal-Medium.ttf") format("truetype"), url("fonts/TofinoPersonal-Medium.svg#TofinoPersonal-Medium") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'TofinoPersonal-Regular';
+  src: url("fonts/TofinoPersonal-Regulard41d.eot?#iefix") format("embedded-opentype"), url("fonts/TofinoPersonal-Regular.otf") format("opentype"), url("fonts/TofinoPersonal-Regular.woff") format("woff"), url("fonts/TofinoPersonal-Regular.ttf") format("truetype"), url("fonts/TofinoPersonal-Regular.svg#TofinoPersonal-Regular") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'TofinoPersonal-Book';
+  src: url("fonts/TofinoPersonal-Bookd41d.eot?#iefix") format("embedded-opentype"), url("fonts/TofinoPersonal-Book.otf") format("opentype"), url("fonts/TofinoPersonal-Book.woff") format("woff"), url("fonts/TofinoPersonal-Book.ttf") format("truetype"), url("fonts/TofinoPersonal-Book.svg#TofinoPersonal-Book") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Gilmer-Heavy';
+  src: url("fonts/Gilmer-Heavyd41d.eot?#iefix") format("embedded-opentype"), url("fonts/Gilmer-Heavy.otf") format("opentype"), url("fonts/Gilmer-Heavy.woff") format("woff"), url("fonts/Gilmer-Heavy.ttf") format("truetype"), url("fonts/Gilmer-Heavy.svg#Gilmer-Heavy") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Gilmer-Regular';
+  src: url("fonts/Gilmer-Regulard41d.eot?#iefix") format("embedded-opentype"), url("fonts/Gilmer-Regular.otf") format("opentype"), url("fonts/Gilmer-Regular.woff") format("woff"), url("fonts/Gilmer-Regular.ttf") format("truetype"), url("fonts/Gilmer-Regular.svg#Gilmer-Regular") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Gilmer-Medium';
+  src: url("fonts/Gilmer-Mediumd41d.eot?#iefix") format("embedded-opentype"), url("fonts/Gilmer-Medium.otf") format("opentype"), url("fonts/Gilmer-Medium.woff") format("woff"), url("fonts/Gilmer-Medium.ttf") format("truetype"), url("fonts/Gilmer-Medium.svg#Gilmer-Medium") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Gilmer-Bold';
+  src: url("fonts/Gilmer-Boldd41d.eot?#iefix") format("embedded-opentype"), url("fonts/Gilmer-Bold.otf") format("opentype"), url("fonts/Gilmer-Bold.woff") format("woff"), url("fonts/Gilmer-Bold.ttf") format("truetype"), url("fonts/Gilmer-Bold.svg#Gilmer-Bold") format("svg");
+  font-weight: normal;
+  font-style: normal; }
